@@ -1,7 +1,10 @@
 # reactJS-calculator
 ### A fully functional calculator built on React.js
 
-
+skills learned/practiced during this project:
+- React.js workflow using JSX, state, setState and props.
+- Working with both Class components and Function components.
+- CSS Grid and flexbox
 
 ## Screenshots:
 
